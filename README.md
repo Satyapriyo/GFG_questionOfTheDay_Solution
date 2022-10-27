@@ -1,4 +1,4 @@
-# GFG_questionOfTheDay_Solution
+# GFG Question of The Day Solution
 
 
 Gfg question of the solved .
